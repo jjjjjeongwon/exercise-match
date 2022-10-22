@@ -25,7 +25,7 @@
     <td>이민호</td>
     <td>이성훈</td>
     <td>장정훈</td>
-    <td>홍산의</td>
+    
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></td>
